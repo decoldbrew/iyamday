@@ -7,7 +7,7 @@ import cake80 from "./assets/80.png";
 import cake60 from "./assets/60.png";
 import cake40 from "./assets/40.png";
 import cake20 from "./assets/20.png";
-import birthdayText from "./assets/birthdaytext.png";
+import birthdayText from "./assets/bdayy.jpeg";
 import "./App.css";
 import Confetti from "./Confetti";
 import { useEffect, useRef, useState } from "react";
@@ -108,7 +108,7 @@ export default function App() {
   const [showMatthew, setShowMatthew] = useState(false);
   let matthewSrc = null;
   try {
-    matthewSrc = require("./assets/matthew.jpg");
+    matthewSrc = require("./assets/iyam.jpg");
   } catch (e) {
     matthewSrc = null;
   }
