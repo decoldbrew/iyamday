@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/decoldbrew/iyamday.git/static/css/main.6a81d434.css",
+    "main.js": "/decoldbrew/iyamday.git/static/js/main.dfd4d4ae.js",
+    "static/js/453.89ca1024.chunk.js": "/decoldbrew/iyamday.git/static/js/453.89ca1024.chunk.js",
+    "static/media/bdayaudo.mp3": "/decoldbrew/iyamday.git/static/media/bdayaudo.3e0c7eec94df84220422.mp3",
+    "static/media/iyam.jpg": "/decoldbrew/iyamday.git/static/media/iyam.def8aeb539649716e4ba.jpg",
+    "static/media/bdayy.jpeg": "/decoldbrew/iyamday.git/static/media/bdayy.b3d7e35ba9f4c0ec47b4.jpeg",
+    "index.html": "/decoldbrew/iyamday.git/index.html",
+    "main.6a81d434.css.map": "/decoldbrew/iyamday.git/static/css/main.6a81d434.css.map",
+    "main.dfd4d4ae.js.map": "/decoldbrew/iyamday.git/static/js/main.dfd4d4ae.js.map",
+    "453.89ca1024.chunk.js.map": "/decoldbrew/iyamday.git/static/js/453.89ca1024.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6a81d434.css",
+    "static/js/main.dfd4d4ae.js"
+  ]
+}
